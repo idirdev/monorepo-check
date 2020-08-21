@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/monorepo-check",
+  "version": "1.0.0",
+  "description": "Validate monorepo structure and cross-dependencies",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/monorepo-check.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "monorepo-check": "bin/cli.js"
+  }
+}

@@ -18,5 +18,9 @@
   },
   "bin": {
     "monorepo-check": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/monorepo-check",
+  "bugs": {
+    "url": "https://github.com/idirdev/monorepo-check/issues"
   }
 }
